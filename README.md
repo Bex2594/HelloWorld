@@ -1,2 +1,2 @@
 # HelloWorld
-Practice using GitHub and creating a repository
+I is a Bex. Bex is new to GitHub but learns fast. Go Bex go.
